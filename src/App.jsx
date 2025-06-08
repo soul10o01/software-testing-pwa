@@ -4,7 +4,7 @@ import "./App.css";
 const testingMethods = [
   {
     name: "Unit Testing",
-    image: "/software-testing-pwa/images/unit-testing.svg",
+    image: "/images/unit-testing.svg",
     description: {
       purpose: "Tests individual components or functions in isolation",
       scope: "Smallest testable parts of software (functions, methods, classes)",
@@ -19,7 +19,7 @@ const testingMethods = [
   },
   {
     name: "Integration Testing",
-    image: "/software-testing-pwa/images/integration-testing.svg",
+    image: "/images/integration-testing.svg",
     description: {
       purpose: "Verifies that different parts work together correctly",
       scope: "Interfaces between components, data flow between modules",
@@ -34,7 +34,7 @@ const testingMethods = [
   },
   {
     name: "System Testing",
-    image: "/software-testing-pwa/images/system-testing.svg",
+    image: "/images/system-testing.svg",
     description: {
       purpose: "Evaluates complete system functionality",
       scope: "End-to-end system behavior and requirements",
@@ -49,7 +49,7 @@ const testingMethods = [
   },
   {
     name: "Acceptance Testing",
-    image: "/software-testing-pwa/images/acceptance-testing.svg",
+    image: "/images/acceptance-testing.svg",
     description: {
       purpose: "Validates software meets business requirements",
       scope: "Real-world scenarios and user workflows",
@@ -64,7 +64,7 @@ const testingMethods = [
   },
   {
     name: "Regression Testing",
-    image: "/software-testing-pwa/images/regression-testing.svg",
+    image: "/images/regression-testing.svg",
     description: {
       purpose: "Ensures new changes don't break existing features",
       scope: "Previously tested functionality",
@@ -79,7 +79,7 @@ const testingMethods = [
   },
   {
     name: "Smoke Testing",
-    image: "/software-testing-pwa/images/smoke-testing.svg",
+    image: "/images/smoke-testing.svg",
     description: {
       purpose: "Quick check of critical functionalities",
       scope: "Core features and basic operations",
